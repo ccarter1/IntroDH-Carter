@@ -1,0 +1,1 @@
+double() most likely will return an error because without the brackets, there is nothing to return or command the program to do. There is no argument in this sort of command.
